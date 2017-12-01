@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Animation</string>
     <string name="action_settings">Settings</string>
+    <string name="user_bg_height">220dp</string>
+    <string name="username">Nyi Nyi Htun Lwin</string>
+    <string name="email">nnhl.mgk@gmail.com</string>
+    <string name="logout">logout</string>
+    <string name="action_show_user_data">Show User Data</string>
 </resources>
